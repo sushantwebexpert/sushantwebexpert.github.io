@@ -13,7 +13,7 @@ Check out the live site here: [sushantwebexpert.github.io](https://sushantwebexp
 - Responsive design principles
 
 ## 📸 Screenshots
-![Screenshot](https://github.com/user-attachments/assets/5a0224cb-b899-4640-b108-c56ec2cd5fb5)
+![Screenshot](https://github.com/user-attachments/assets/064bc1df-4421-4d4c-9fae-1b1236e15ba4)
 
 ## 📁 Folder Structure
 
